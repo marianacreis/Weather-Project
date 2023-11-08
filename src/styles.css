@@ -1,0 +1,78 @@
+html,
+body {
+  height: 100%;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+footer {
+  position: static;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  width: 100%;
+  font-size: 12px;
+  padding-top: 30px;
+}
+
+.container {
+  min-height: 100%;
+  margin-bottom: -50px;
+}
+
+.header {
+  margin: 50px auto;
+
+  border: solid;
+  float: none;
+  border: solid;
+}
+
+.header-icon {
+  width: 200px;
+}
+
+.additional-information {
+  font-size: 13px;
+}
+
+.forecast {
+  float: none;
+  margin-left: auto;
+  margin: 0;
+  padding: 0;
+}
+
+.col-1 {
+  padding: 12px;
+}
+.information {
+  margin-left: 200px;
+}
+
+.small-icons {
+  width: 25px;
+  max-width: 100%;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.search-bar {
+  margin: 50px auto;
+  max-width: 600px;
+}
